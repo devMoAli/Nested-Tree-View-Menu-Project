@@ -1,0 +1,16 @@
+.menu-list-container {
+  width: 100vw;
+  background-color: rgb(53, 89, 109);
+}
+.menu-item {
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
+.menu-list-container {
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
